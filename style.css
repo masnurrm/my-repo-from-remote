@@ -10,6 +10,8 @@ body {
     background-color: white;
     border: 1px solid gray;
     border-radius: 6px;
+    position: justify;
+    align-content: center;
  }
   
  #profile-image{
